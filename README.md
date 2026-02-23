@@ -3,7 +3,7 @@
 ## 🛠️ Tech Stacks & Tools
 ### Language
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/TSX-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
 
 ### Tools
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
